@@ -1,4 +1,4 @@
-## Página estatica do instagram
+## Página estática do instagram
 Fazer a página inicial do instagram.
 
 ### tecnologias utilizadas:
@@ -6,7 +6,18 @@ Fazer a página inicial do instagram.
 
 Primeiramente capturei imagens para clonar a página principal. Colocando-os na pasta imagem, já o index, readme e o CSS na pasta principal.
 
-Utilizando do conhecimento de Tags HTML, foi feita a primeira parte. Em seguida, a harmonização com o CSS
+![etrutura do projeto](https://github.com/EwertonRafael/Desafio-da-DIO-HTML5-e-CSS3/blob/main/estrutura.png)
 
-Emojis não estão na página inicial, mas só pra encrementar.
-e também acrescentei um favicon.ico.
+Utilizando do conhecimento de Tags HTML, foi feita a primeira parte.
+
+![html](https://github.com/EwertonRafael/Desafio-da-DIO-HTML5-e-CSS3/blob/main/html.png)
+
+Em seguida, a harmonização e responsividade com o CSS. 
+
+![css](https://github.com/EwertonRafael/Desafio-da-DIO-HTML5-e-CSS3/blob/main/css.png)
+
+Por fim foram introduzidas [Emojis](https://emojipedia.org/) (opcional) e favicon.ico do [instagram](https://www.flaticon.com/br/icones-gratis/instagram)
+
+e este é o resultado...
+
+![página inical do instagram](https://github.com/EwertonRafael/Desafio-da-DIO-HTML5-e-CSS3/blob/main/instagram.png)
